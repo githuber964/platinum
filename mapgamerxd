@@ -1,0 +1,1195 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",Agro Mais
+https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+
+#EXTINF:0 tvg-id="RedeSuperdeTelevisao.br" group-title="Religioso",Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:0 tvg-id="Gospel.br" group-title="Religioso",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religioso",Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",CULTURA HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3853
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",CULTURA HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3854
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",CULTURA SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3852
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",RECORD BAHIA HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3825
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",RECORD BAHIA SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3824
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",RECORD BELEM SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3826
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",RECORD BRASILIA HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3828
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",RECORD BRASILIA SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3827
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",RECORD FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3811
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",RECORD FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6764
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",RECORD GOIAS SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3829
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",RECORD HD RJ¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6839
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",RECORD HD SP¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6836
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",RECORD HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3830
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",RECORD MG HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6838
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",RECORD MINAS HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3833
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",RECORD MINAS SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3832
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",REDETV FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3812
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",REDETV HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3840
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",REDETV HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3839
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",REDETV SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3838
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",REDE TV FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6656
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",REDE TV HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6829
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",BAND HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6830
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",BAND SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3821
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",BAND SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6831
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",BAND CAMPINAS HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3817
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",BAND CAMPINAS SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3816
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",BAND FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3809
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",BAND HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3820
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",BAND HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3819
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",SBT  SP FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6766
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",SBT FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3814
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",SBT GOIANIA HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3842
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",SBT HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3844
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",SBT HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3843
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",SBT INTERIOR FHD ²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3815
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",SBT PARANA SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6834
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",SBT PERNAMBUCO HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3845
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",SBT SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3841
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",SBT SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3846
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",SBT SP HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6832
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",SBT SP SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6833
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",TV GAZETA FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6655
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",TV GAZETA HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3848
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",TV PAMPA RS  HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6828
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",TV BRASIL HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4082
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",TV TAROBA HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4084
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",A&E FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6701
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",A&E HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6882
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",A&E SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6883
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",NICKELODEON FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3991
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",NICKELODEON HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4055
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",NICKELODEON SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4053
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",TCM HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4080
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",TCM SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4079
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",VIVA FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6692
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",VIVA HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4052
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",VIVA HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4051
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",VIVA SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4049
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",VIVA SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6885
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",OFF FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6693
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",OFF HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4031
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",OFF HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4030
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",OFF HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6891
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",OFF SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4028
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",off sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6892
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ENTRETENIMENTO",TOP TV HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4068
+
+#EXTINF:0 tvg-id="Tvbrasil.br" group-title="ABERTOS",TV BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV BRASIL 2
+https://22722d.ha.azioncdn.net/hls/STsEBCLIVE.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",BAND RBA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ABERTOS",TV GAZETA (MA)
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",RECORD 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6628
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",REDETV 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6645
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",REDE TV 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6643
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",SBT 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6632
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="CANAIS | 4K",ANIMAL PLANET 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6633
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",NATGEO 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6639
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",TNT 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6648
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",TNT SERIES 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6649
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",TELECINE PIPOCA 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6651
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",TELECINE PREMIUM 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6642
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",HBO 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6644
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",HBO XTREAM 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6650
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",MEGA PIX 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6637
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",SPACE 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6641
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",SPORTV 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6634
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",PREMIERE CLUBES 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6629
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",FOX SPORTS 2 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6638
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",FOX SPORTS 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6631
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="CANAIS | 4K",ANIMAL PLANET 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6633
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",BAND 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6626
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",CARTOON 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6636
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",COMBATE 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6627
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",DISCOVERY CHANNEL 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6630
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",ESPN 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6640
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",FOX 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6652
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",FOX SPORTS 2 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6638
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",FOX SPORTS 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6631
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",GAZETA 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6646
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",HBO 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6644
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",HBO XTREAM 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6650
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",MEGA PIX 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6637
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",MULTISHOW 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6635
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",NATGEO 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6639
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",PREMIERE CLUBES 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6629
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",RECORD 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6628
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",REDE TV 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6643
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",REDETV 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6645
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",SBT 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6632
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",SPACE 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6641
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",SPORTV 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6634
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",TELECINE PIPOCA 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6651
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",TELECINE PREMIUM 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6642
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",TNT 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6648
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",TNT SERIES 4K¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6649
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 4K",ESPN BRASIL HD³
+http://dns.velox4k.tech:2082/6893910914/6615263741/22157
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | RELIGIOSOS",sbn sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7093
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO  FLORIANOPOLIS FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6737
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO  FLORIANOPOLIS HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7047
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO  FORTALEZA HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7041
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO  MANAUS SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7071
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO  NSC JOINVILLE  HD¹ SC
+http://dns.velox4k.tech:2082/6893910914/6615263741/7086
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO ACRE HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4506
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO ACRE SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4505
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO BAHIA HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4469
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO BELEM HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4471
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO BELEM HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7053
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO BELEM SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4470
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO BELEM SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7054
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO BH HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7050
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO BH SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7051
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO BOA VISTA HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4473
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO BOA VISTA SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4472
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO BRASILIA HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4474
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO BRASILIA HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7048
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO BRASILIA SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4475
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO BRASILIA SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7049
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO CEARA HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4476
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO CEARA SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4477
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO CURITIBA HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4478
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO CURITIBA HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7045
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",globo curitiba sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7046
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO EPTV CAMPINAS HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4480
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO EPTV CAMPINAS SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4479
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO EPTV CAMPINAS SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7065
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO EPTV RIBEIRAO PRETO SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4482
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO EPTV RIBEIRAO PRETO SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7066
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO EPTV SAO CARLOS SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4483
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO EPTV SAO CARLOS SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7067
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6741
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO FLORIANOPOLIS HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4485
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO FLORIANOPOLIS SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4484
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO FORTALEZA SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7042
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO GAZETA SUL ALEGRE ES HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7082
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO GAZETA SUL ALEGRE ES SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7083
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO GOIANIA HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4487
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO GOIANIA HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7061
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO GOIANIA SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4486
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO HD 2 RJ dual audio¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7059
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO HD SP¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7043
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV CABUGI SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4488
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV CABUGI SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7069
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO MACAPA HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4490
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO MACAPA SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4489
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO MANAUS HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7070
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO MATO GROSSO HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7055
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO MINAS HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4491
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO MINAS SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4492
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO NATAL HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4494
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | REDE GLOBO",GLOBO NATAL SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4493
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",GLOBO BRASILIA FHD H265²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4462
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",A&E FHD H265²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4088
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",A&E HD DUAL AUDIO H.265¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6819
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",DISCOVERY H&H FHD H265²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3917
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",TNT SERIES FHD DUAL AUDIO H.265¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6815
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",TELECINE FUN FHD DUAL AUDIO H.265¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7110
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",TELECINE FUN FHD H265²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4291
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",TELECINE PIPOCA DUAL AUDIO H.265¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7111
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",TELECINE PIPOCA FHD H265²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4293
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",TELECINE PREMIUM FHD DUAL AUDIO H.265¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7109
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",HBO + DUAL AUDIO H.265¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6808
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",HBO FHD DUAL AUDIO  H.265¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6807
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",HBO MUNDI FHD H265²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3875
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",HBO POP DUAL  AUDIO FHD¹  H.265
+http://dns.velox4k.tech:2082/6893910914/6615263741/6809
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",HBO POP FHD H265²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3879
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",MEGA PIX DUAL AUDIO H.265¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6811
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",STUDIO UNIVERSAL FHD H265²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4112
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",SPACE DUAL AUDO H.265¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6814
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",FX FHD DUAL AUDIO H.265¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6810
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",FX FHD H265²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4105
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",SPORTV FHD 3 H.265¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6824
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",SPORTV FHD H.265¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6823
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",FOX SPORTS FHD H.265¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6825
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H.265",HISTORY FHD H.265  dual audio¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6821
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",A&E HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4125
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",A&E HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4122
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",A&E SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4123
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",AMC FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6736
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",AMC FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4089
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",AMC HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6928
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",AMC HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4128
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",AMC HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4126
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",AMC SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4127
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",AMC SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4129
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",AMC SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6929
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",CINEMAX dual audio FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6724
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",CINEMAX FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4095
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4143
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4142
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6944
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",CINEMAX SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4145
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",cinemax sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6945
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",tnt dual audio sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6957
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",tnt dual audio sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6963
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",TNT FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4115
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",TNT HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4194
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",TNT HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4193
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",TNT HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6954
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",TNT SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4195
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",tnt sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6953
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4117
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6722
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4200
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4199
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6955
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4197
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",tnt series sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6956
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV  FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6735
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4118
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4202
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4201
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6968
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4203
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6969
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",tcm sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6943
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",TLC HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4190
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",TLC HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4189
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",TLC SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4191
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",TLC SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6964
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",MEGA PIX FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6732
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",MEGA PIX HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6946
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4106
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4167
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4166
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4168
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6947
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4108
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4170
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4173
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4171
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL   HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6967
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4111
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6733
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4179
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4178
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4181
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL TV SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6940
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",SPACE FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4109
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",SPACE FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6723
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",SPACE HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4175
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",SPACE HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4174
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",SPACE HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6958
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",SPACE SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4176
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",SPACE SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6959
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",FX FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4104
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",FX FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6714
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",FX HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4163
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",FX HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6933
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",FX HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4162
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",FX SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4164
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | FILMES E SÉRIES",FX SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6907
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3912
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6669
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3935
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3934
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6848
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3936
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6849
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3916
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6678
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3942
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6854
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3944
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",discovery h&h sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6855
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3976
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6867
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO FHD H265²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3933
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3932
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",NatGeo FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6671
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3974
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3973
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6866
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",TNT FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6685
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",TLC FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6684
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",TLC HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7108
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 FHD H265²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3925
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3924
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3958
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3959
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3960
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3961
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL FHD H265²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3927
+#EXTINF:0 tvg-id="Historychannel.br" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3926
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3962
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3964
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3963
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6850
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6851
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6742
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6870
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6871
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",NICK  JR HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7003
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",NICK JR  HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7002
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",NICK JR FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4216
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",NICK JR FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6759
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",NICK JR HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4252
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",NICK JR SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4254
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",NICK JR SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7004
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",NICKLODEON FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6762
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",NICKLODEON SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7001
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",DISNEY XD FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6757
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",DISNEY XD HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4245
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",DISNEY XD HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6989
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",DISNEY XD SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4246
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",disney xd sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6990
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",DISNEY JR FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6756
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",DISNEY JR HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6987
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",DISNEY JR SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6988
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",DISNEY JUNIOR FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4214
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",DISNEY JUNIOR HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4240
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",DISNEY JUNIOR HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4239
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",DISNEY JUNIOR SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4242
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",disney sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6986
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",NATGEO KIDS FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4215
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",NATGEO KIDS FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6753
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",NATGEO KIDS HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4249
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",NATGEO KIDS HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4248
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",NATGEO KIDS HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7008
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",NATGEO KIDS SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4250
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",natgeo kids sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7009
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",TOONCAST HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4255
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",TOONCAST HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7013
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",TOONCAST SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4256
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",BOOMBERANG FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6755
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",BOOMBERANG HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6997
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",BOOMERANG SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6998
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",BOOMERANG FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4209
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",BOOMERANG HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4219
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",BOOMERANG HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4218
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",BOOMERANG SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4220
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",Baby TV HDD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6984
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",BABY TV HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4222
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",BABY TV SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4223
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | INFANTIL",BABY TV SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6985
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="CANAIS | INFANTIL",Disney XD HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="CANAIS | INFANTIL",Disney Junior HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Disneychannelhd.br" group-title="CANAIS | INFANTIL",Disney Channel HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | LEGENDADOS",UNIVERSAL CHANNEL FHD LEG $
+http://dns.velox4k.tech:2082/6893910914/6615263741/6800
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | LEGENDADOS",UNIVERSAL CHANNEL HD LEGENDADO $
+http://dns.velox4k.tech:2082/6893910914/6615263741/6801
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | LEGENDADOS",TELECINE CULT FHD LEGENDADO $
+http://dns.velox4k.tech:2082/6893910914/6615263741/6797
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | LEGENDADOS",TELECINE CULT HD LEGENDADO $
+http://dns.velox4k.tech:2082/6893910914/6615263741/6796
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | LEGENDADOS",TELECINE PREMIUM FHD LEGENDADO $
+http://dns.velox4k.tech:2082/6893910914/6615263741/6795
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | LEGENDADOS",TELECINE PREMIUM HD LEGENDADO $
+http://dns.velox4k.tech:2082/6893910914/6615263741/6794
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | LEGENDADOS",HBO  HD LEGENDADO $
+http://dns.velox4k.tech:2082/6893910914/6615263741/6791
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | LEGENDADOS",HBO + HD LEGENDADO
+http://dns.velox4k.tech:2082/6893910914/6615263741/6790
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | LEGENDADOS",HBO FHD LEGENDADO $
+http://dns.velox4k.tech:2082/6893910914/6615263741/6792
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | LEGENDADOS",HBO MUNDI HD LEG $
+http://dns.velox4k.tech:2082/6893910914/6615263741/6804
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | LEGENDADOS",HBO MUNDI SD LEG $
+http://dns.velox4k.tech:2082/6893910914/6615263741/6805
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | LEGENDADOS",HBO PLUS + FHD LEGENDADO $
+http://dns.velox4k.tech:2082/6893910914/6615263741/6793
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | LEGENDADOS",HBO SIGNATURA HD LEGENDADO $
+http://dns.velox4k.tech:2082/6893910914/6615263741/6789
+
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TC CULT HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4298
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TC FUN HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4299
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TC PIPOCA HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4300
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TC PREMIUM HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4301
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TC TOUCH HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4302
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE ACTION FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4287
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE ACTION FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6778
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE ACTION FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6779
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE ACTION HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4303
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE ACTION HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7096
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE ACTION SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4304
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE ACTION SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7097
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE CULT FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4288
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE CULT FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6785
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE CULT HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4306
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE CULT HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7098
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE CULT SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4307
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE CULT SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7099
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE FUN FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4290
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE FUN FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6784
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE FUN HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4309
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE FUN HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7100
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE FUN SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4311
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE FUN SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7101
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",Telecine Pipoca  FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6783
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE PIPOCA DUAL AUDIO SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7107
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE PIPOCA FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4292
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE PIPOCA HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4312
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE PIPOCA HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7106
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE PIPOCA SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4313
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE PREMIUM FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4294
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE PREMIUM FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6782
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE PREMIUM HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4315
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE PREMIUM HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7104
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE PREMIUM SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4317
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE PREMIUM SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7105
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE TOUCH FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4296
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE TOUCH FHD² H
+http://dns.velox4k.tech:2082/6893910914/6615263741/4318
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE TOUCH FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6780
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE TOUCH FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6781
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE TOUCH HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4319
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE TOUCH HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7102
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE TOUCH SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4321
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | TELECINE",TELECINE TOUCH SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7103
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO  FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6743
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO + FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3865
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO + HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3882
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO + HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6971
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO + SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3884
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO 2 FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3867
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO 2 FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6744
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO 2 HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3901
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO 2 HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6972
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO 2 SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3886
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO 2 SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6975
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO FAMILY FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3869
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO FAMILY FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6748
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO FAMILY HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3889
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO FAMILY HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3888
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO FAMILY HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6981
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO FAMILY SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3891
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO FAMILY SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6982
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3871
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6745
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3893
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3892
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6970
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO MUNDI FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3874
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO MUNDI FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6749
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO MUNDI HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3894
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO MUNDI HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3902
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO MUNDI SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3903
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO MUNDI ¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6973
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO PLUS FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6746
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO PLUS SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6976
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO POP FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3878
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO POP FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6751
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO POP HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3895
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO POP HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3909
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO POP SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3910
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO POP SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6983
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3881
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6974
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO SIGNATURE FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3873
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO SIGNATURE FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6747
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO SIGNATURE HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3897
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO SIGNATURE HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3896
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO SIGNATURE HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6979
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO SIGNATURE SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3898
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO SIGNATURE SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6980
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO XTREME FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3877
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO XTREME FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6750
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO XTREME HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3906
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO XTREME HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3905
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO XTREME HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6977
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO XTREME SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3907
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO XTREME SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6978
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | HBO",HBO+ HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/3900
+
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV 2 FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4543
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV 2 HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4584
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV 2 HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4585
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV 2 SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4586
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV 2 SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6914
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV 3 FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4544
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV 3 HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4589
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV 3 HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4588
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV 3 HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4590
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV 3 SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4587
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV 3 SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4591
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",sportv 3 sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6915
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",sportv alternativo sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6916
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4546
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6712
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6713
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV 2 HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6911
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV HD 3¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6912
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4593
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4592
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4594
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6910
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4581
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4595
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",SPORTV SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6913
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",ESPN BRASIL FHD H265²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4532
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",ESPN BRASIL FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4533
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",ESPN BRASIL FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6707
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",ESPN BRASIL HDD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6921
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",ESPN BRASIL HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4560
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",ESPN BRASIL SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4557
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",ESPN BRASIL SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4561
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",ESPN EXTRA DUAL AUDIO SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6927
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",ESPN EXTRA FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4534
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",ESPN EXTRA FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6708
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",ESPN EXTRA HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4563
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",ESPN EXTRA HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4564
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",ESPN EXTRA HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6924
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",ESPN EXTRA SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4565
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",FOX SPORTS 2 FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4539
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",FOX SPORTS 2 HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4577
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",FOX SPORTS 2 HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4576
+#EXTINF:0 tvg-id="Combate.br" group-title=" CANAIS | ESPORTES",FOX SPORTS 2 HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6905
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",FOX SPORTS 2 SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4575
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",FOX SPORTS FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4542
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",FOX SPORTS FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6710
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",FOX SPORTS FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6711
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",FOX SPORTS HD DUAL
+http://dns.velox4k.tech:2082/6893910914/6615263741/4580
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",FOX SPORTS HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4579
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",FOX SPORTS HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6904
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",FOX SPORTS SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4573
+#EXTINF:0 tvg-id="ext" group-title=" CANAIS | ESPORTES",Fox Sports SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6906
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7025
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIER 2 FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6770
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4621
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 2 HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4639
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE  2 HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7026
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 2 HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4638
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 2 SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4636
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 2 SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7027
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIER 3 FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6771
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIER HD 3¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7028
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 3 SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7029
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4623
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 3 HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4644
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 3 HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4642
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 3 SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4640
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6772
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 4 SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7031
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4625
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 4 HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4649
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 4 HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4647
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 4 SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4646
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIER HD 4¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7030
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIER 5 FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6773
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIER HD 5¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7032
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 5 SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7033
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4626
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 5 HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4653
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 5 HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4652
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 5 SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4651
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIER 6 FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6774
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIER HD 6¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7034
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",premier 6 sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7035
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4629
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 6 HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4657
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 6 HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4656
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIER 7 FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6775
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",premier 7 sd ¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7036
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4630
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 7 HD DUAL²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4661
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 7 HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4660
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 7 SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4659
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE 8 SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4662
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",premier 8 sd¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7037
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6769
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE CLUBE HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7038
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD  H.265¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7040
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4619
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD³
+http://dns.velox4k.tech:2082/6893910914/6615263741/4633
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4632
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD*
+http://dns.velox4k.tech:2082/6893910914/6615263741/4635
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4634
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/7039
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | CONMENBOL LIBERTADORES",CONMEBOL FHD 1
+http://dns.velox4k.tech:2082/6893910914/6615263741/17378
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | CONMENBOL LIBERTADORES",CONMEBOL FHD 2
+http://dns.velox4k.tech:2082/6893910914/6615263741/17379
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | CONMENBOL LIBERTADORES",CONMEBOL FHD 3
+http://dns.velox4k.tech:2082/6893910914/6615263741/17380
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | CONMENBOL LIBERTADORES",CONMEBOL FHD 4
+http://dns.velox4k.tech:2082/6893910914/6615263741/17381
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | CONMENBOL LIBERTADORES",CONMEBOL 1 FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/17382
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | CONMENBOL LIBERTADORES",CONMEBOL 2 FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/17383
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | CONMENBOL LIBERTADORES",CONMEBOL 3 FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/17384
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | CONMENBOL LIBERTADORES",CONMEBOL 4 FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/17385
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DAZN & EI PLUS",DAZN FHD²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4676
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DAZN & EI PLUS",DAZN HD¹
+http://dns.velox4k.tech:2082/6893910914/6615263741/6806
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DAZN & EI PLUS",DAZN²
+http://dns.velox4k.tech:2082/6893910914/6615263741/4677
