@@ -1705,8 +1705,8 @@ http://psrv.io:80/9089247/coreurl.me/566
 http://psrv.io:80/9089247/coreurl.me/533
 #EXTINF:-1 tvg-logo="http://z4.vc/Y3s" group-title="Radios",[SP] Rádio Trânsito FM - 92.1 FM
 http://psrv.io:80/9089247/coreurl.me/567
-#EXTINF:-1 tvg-logo="http://z4.vc/wN8" group-title="Radios",[SP] Top FM - 104.1 FM
-http://psrv.io:80/9089247/coreurl.me/532
+#EXTINF:-1 tvg-logo="http://z4.vc/wN8" group-title="Radios",[SP] Top TV - 104.1 FM
+https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8?magellan
 #EXTINF:-1 tvg-logo="http://z4.vc/dc6" group-title="Radios",[SP] Transamérica - 100.1 FM
 http://psrv.io:80/9089247/coreurl.me/528
 #EXTINF:-1 tvg-logo="http://z4.vc/tHe" group-title="Radios",[SP] Tropical FM - 107.9 FM
