@@ -99,8 +99,8 @@ http://psrv.io:80/9089247/coreurl.me/25317
 http://psrv.io:80/9089247/coreurl.me/18718
 #EXTINF:-1 tvg-logo="http://z4.vc/H1Y" group-title="Canais | Infantis",Boomerang SD
 http://psrv.io:80/9089247/coreurl.me/18719
-#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",CANAL 26 ARGENTINA HD
-http://psrv.io:80/9089247/coreurl.me/26427
+#EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",CANAL DO BOI
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNNEL_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",CANAL 33
 http://psrv.io:80/9089247/coreurl.me/28050
 #EXTINF:-1 tvg-logo="http://z4.vc/UqA" group-title="Canais | Filmes e Séries",Canal Brasil FHD
@@ -304,7 +304,7 @@ http://psrv.io:80/9089247/coreurl.me/25309
 #EXTINF:-1 tvg-logo="http://z4.vc/krr" group-title="Canais | Esportes",ESPN 2 HD
 http://psrv.io:80/9089247/coreurl.me/18678
 #EXTINF:-1 tvg-logo="http://z4.vc/J6U" group-title="Canais | Esportes",ESPN 2 SD
-http://psrv.io:80/9089247/coreurl.me/18679
+http://45.225.93.154:8000/play/a028
 #EXTINF:-1 tvg-logo="http://z4.vc/a01" group-title="Canais | Esportes",ESPN Brasil FHD
 http://psrv.io:80/9089247/coreurl.me/18781
 #EXTINF:-1 tvg-logo="http://z4.vc/2zo" group-title="Canais | Esportes",ESPN Brasil FHD [H265]
@@ -320,7 +320,7 @@ http://psrv.io:80/9089247/coreurl.me/25308
 #EXTINF:-1 tvg-logo="http://z4.vc/1xn" group-title="Canais | Esportes",ESPN Extra HD
 http://psrv.io:80/9089247/coreurl.me/18674
 #EXTINF:-1 tvg-logo="http://z4.vc/dzo" group-title="Canais | Esportes",ESPN Extra SD
-http://psrv.io:80/9089247/coreurl.me/18675
+http://45.225.93.154:8000/play/a03g
 #EXTINF:-1 tvg-logo="http://z4.vc/d9B" group-title="Canais | Esportes",ESPN FHD
 http://psrv.io:80/9089247/coreurl.me/18780
 #EXTINF:-1 tvg-logo="http://z4.vc/GbD" group-title="Canais | Esportes",ESPN FHD [H265]
@@ -328,7 +328,7 @@ http://psrv.io:80/9089247/coreurl.me/25237
 #EXTINF:-1 tvg-logo="http://z4.vc/gWv" group-title="Canais | Esportes",ESPN HD
 http://psrv.io:80/9089247/coreurl.me/18673
 #EXTINF:-1 tvg-logo="http://z4.vc/yGS" group-title="Canais | Esportes",ESPN SD
-http://psrv.io:80/9089247/coreurl.me/18680
+http://45.225.93.154:8000/play/a027
 #EXTINF:-1 tvg-logo="http://z4.vc/IIo" group-title="Canais | 4K",ESPN [4K]
 http://psrv.io:80/9089247/coreurl.me/27130
 #EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",Euro Channel FHD
@@ -1204,7 +1204,7 @@ http://psrv.io:80/9089247/coreurl.me/18763
 #EXTINF:-1 tvg-logo="http://z4.vc/JSJ" group-title="Canais | SporTV",SporTV 2 FHD [H265]
 http://psrv.io:80/9089247/coreurl.me/22168
 #EXTINF:-1 tvg-logo="http://z4.vc/7lY" group-title="Canais | SporTV",SporTV 2 HD
-http://psrv.io:80/9089247/coreurl.me/18561
+http://apk.goo.ac:8081/live/15/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://z4.vc/P0b" group-title="Canais | SporTV",SporTV 2 SD
 http://psrv.io:80/9089247/coreurl.me/18562
 #EXTINF:-1 tvg-logo="http://z4.vc/dyY" group-title="Canais | SporTV",SporTV 3 FHD
@@ -1222,7 +1222,7 @@ http://psrv.io:80/9089247/coreurl.me/18761
 #EXTINF:-1 tvg-logo="http://z4.vc/SlI" group-title="Canais | SporTV",SporTV FHD [H265]
 http://psrv.io:80/9089247/coreurl.me/22166
 #EXTINF:-1 tvg-logo="http://z4.vc/ygd" group-title="Canais | SporTV",SporTV HD
-http://psrv.io:80/9089247/coreurl.me/18558
+http://apk.goo.ac:8081/live/20/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://z4.vc/Ffl" group-title="Canais | SporTV",SporTV SD
 http://psrv.io:80/9089247/coreurl.me/18563
 #EXTINF:-1 tvg-logo="http://z4.vc/tDf" group-title="Canais | SporTV",SPORTV [4K]
@@ -1232,7 +1232,7 @@ http://psrv.io:80/9089247/coreurl.me/18801
 #EXTINF:-1 tvg-logo="http://z4.vc/AiX" group-title="Canais | Filmes e Séries",Studio Universal FHD [H265]
 http://psrv.io:80/9089247/coreurl.me/22165
 #EXTINF:-1 tvg-logo="http://z4.vc/IU1" group-title="Canais | Filmes e Séries",Studio Universal HD
-http://psrv.io:80/9089247/coreurl.me/18556
+http://45.225.93.154:8000/play/a02p
 #EXTINF:-1 tvg-logo="http://z4.vc/6ft" group-title="Canais | Filmes e Séries",Studio Universal SD
 http://psrv.io:80/9089247/coreurl.me/18557
 #EXTINF:-1 tvg-logo="http://z4.vc/7Na" group-title="Canais | Filmes e Séries",Syfy FHD
@@ -1336,7 +1336,7 @@ http://psrv.io:80/9089247/coreurl.me/18796
 #EXTINF:-1 tvg-logo="http://z4.vc/94U" group-title="Canais | Filmes e Séries",TNT FHD [H265]
 http://psrv.io:80/9089247/coreurl.me/22157
 #EXTINF:-1 tvg-logo="http://z4.vc/C6Y" group-title="Canais | Filmes e Séries",TNT HD
-http://psrv.io:80/9089247/coreurl.me/18536
+http://45.225.93.154:8000/play/a02z
 #EXTINF:-1 tvg-logo="http://z4.vc/C6Y" group-title="Canais | Legendados",TNT HD [Legendado]
 http://psrv.io:80/9089247/coreurl.me/28359
 #EXTINF:-1 tvg-logo="http://z4.vc/VGk" group-title="Canais | Filmes e Séries",TNT SD
@@ -1466,7 +1466,7 @@ http://psrv.io:80/9089247/coreurl.me/18790
 #EXTINF:-1 tvg-logo="http://z4.vc/i3M" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
 http://psrv.io:80/9089247/coreurl.me/22153
 #EXTINF:-1 tvg-logo="http://z4.vc/W7o" group-title="Canais | Filmes e Séries",Warner Channel HD
-http://psrv.io:80/9089247/coreurl.me/18513
+http://45.225.93.154:8000/play/a024
 #EXTINF:-1 tvg-logo="http://z4.vc/QRs" group-title="Canais | Filmes e Séries",Warner Channel SD
 http://psrv.io:80/9089247/coreurl.me/18514
 #EXTINF:-1 tvg-logo="http://z4.vc/W7o" group-title="Canais | Legendados",WARNER HD [Legendado]
@@ -1756,7 +1756,7 @@ http://psrv.io:80/9089247/coreurl.me/22275
 #EXTINF:-1 tvg-logo="http://z4.vc/7Pi" group-title="Canais | Adultos",[XXX] Venus FHD
 http://psrv.io:80/9089247/coreurl.me/25215
 #EXTINF:-1 tvg-logo="http://z4.vc/azC" group-title="Canais | Adultos",[XXX] Venus HD
-http://psrv.io:80/9089247/coreurl.me/18484
+http://45.225.93.154:8000/play/a02d
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 007
 http://psrv.io:80/9089247/coreurl.me/27869
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 012
